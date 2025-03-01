@@ -24234,7 +24234,7 @@ const oM = [{
         description: "To see my Certificates & Certifications, Click the button below &#11015",
         image: "images/projects/portfolio.jpg",
         tags: [],
-        twitter: "https://google.com/",
+        twitter: "https://drive.google.com/drive/folders/1WMUGI3IKNBrhHlof-PK7adVwYqudObqz?usp=sharing",
         alt: "certificates and certifications",
     }],
     aM = {
